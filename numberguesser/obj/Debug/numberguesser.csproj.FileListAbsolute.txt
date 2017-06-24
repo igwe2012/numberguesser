@@ -1,0 +1,6 @@
+c:\users\igwe\documents\visual studio 2013\Projects\numberguesser\numberguesser\bin\Debug\numberguesser.exe.config
+c:\users\igwe\documents\visual studio 2013\Projects\numberguesser\numberguesser\bin\Debug\numberguesser.exe
+c:\users\igwe\documents\visual studio 2013\Projects\numberguesser\numberguesser\bin\Debug\numberguesser.pdb
+c:\users\igwe\documents\visual studio 2013\Projects\numberguesser\numberguesser\obj\Debug\numberguesser.csprojResolveAssemblyReference.cache
+c:\users\igwe\documents\visual studio 2013\Projects\numberguesser\numberguesser\obj\Debug\numberguesser.exe
+c:\users\igwe\documents\visual studio 2013\Projects\numberguesser\numberguesser\obj\Debug\numberguesser.pdb
