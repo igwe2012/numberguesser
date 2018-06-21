@@ -55,21 +55,21 @@ namespace numberguesser
         }
 
         private static void GetUserinfo()
-    {
-        Console.WriteLine("Type your name");
-        string username = Console.ReadLine();
-        Console.WriteLine("Welcome" + (username));
-        Console.WriteLine(Environment.NewLine);
-    }
+        {
+            Console.WriteLine("Type your name");
+            string username = Console.ReadLine();
+            Console.WriteLine("Welcome" + (username));
+            Console.WriteLine(Environment.NewLine);
+        }
         static void GetAppinfo()
-    {
-        Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine("This is a Number-guessing game");
-        Console.WriteLine("version 1 .0");
-        Console.WriteLine("Ebuka");
-        Console.WriteLine(Environment.NewLine);
-        Console.ResetColor();
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("This is a Number-guessing game");
+            Console.WriteLine(Environment.NewLine);
+            Console.WriteLine("Ebuka");
+            Console.WriteLine(Environment.NewLine);
+            Console.ResetColor();
 
-    }
+        }
     }
 }
